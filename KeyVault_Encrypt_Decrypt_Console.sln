@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyVault_Encrypt_Decrypt_Console", "KeyVault_Encrypt_Decrypt_Console\KeyVault_Encrypt_Decrypt_Console.csproj", "{055184F6-9E68-4726-8814-BC111C7F838F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055184F6-9E68-4726-8814-BC111C7F838F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055184F6-9E68-4726-8814-BC111C7F838F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055184F6-9E68-4726-8814-BC111C7F838F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055184F6-9E68-4726-8814-BC111C7F838F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2D2983-4D63-47D4-BBFC-C2F7CEE06893}
+	EndGlobalSection
+EndGlobal
